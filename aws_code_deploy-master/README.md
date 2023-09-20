@@ -1,3 +1,6 @@
+LINK: https://github.com/prabhakar2020/aws_code_deploy
+Utube: https://www.youtube.com/watch?v=OnI_nXa5yH4
+
 # aws_code_deploy
 ## Steps for AWS code deploy using S3 as source
  1.  **Create IAM Roles - CodeDeploy & EC2CodeDeploy**
